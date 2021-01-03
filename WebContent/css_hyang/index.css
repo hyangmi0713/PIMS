@@ -1,0 +1,10 @@
+.register-card {
+  position: absolute;
+  width : 835px;
+  height : 457px;
+  background-image: url("../imageNew/index1_03.png");
+  background-repeat:no-repeat;
+  top: 25%;
+  left: 25%;
+ 
+}
